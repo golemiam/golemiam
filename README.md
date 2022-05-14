@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Robbie Platt
-- 👀 I’m interested in Web Design and Development and I.T.
-- 🌱 I’m currently learning A+ certification and Web Development in general
+- 👀 I’m interested in Web Design and Development or application development.
+- 🌱 I’m currently studying applciation development at Utah Valley University and Web Design and Development in general
 - 💞️ I’m looking to collaborate on websites
 - 📫 How to reach me: robert.platt28@gmail.com
 
